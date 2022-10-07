@@ -1,3 +1,4 @@
+# Я молодец сделал коммент
 #!/usr/bin/env python
 # *-* coding: utf-8 *-*
 
